@@ -5,6 +5,8 @@ we have had given setup permissions for ui elements, topography, layouts, forms 
 suffering from OCD they need to have a website which they can arrange for themselves only
 ![4](https://github.com/user-attachments/assets/31e8546e-5d18-4ab7-b660-098692974969)
 # color is orrange here
+
+
 ![3](https://github.com/user-attachments/assets/9b66652d-d742-4060-96ff-ff4977e7e821)
 # can be changed to blue
 
@@ -18,7 +20,13 @@ suffering from OCD they need to have a website which they can arrange for themse
 # Tech Stack for AI on Another platform
 Content filtering
 
+
 ![5](https://github.com/user-attachments/assets/9f04b989-4afe-4ce7-9545-071dc2f524ee)
+
+
+
+
+
 
 
 
@@ -40,6 +48,10 @@ NLP Identifies the emotion tone of the user's Input text
  Personalised data according to user's behavior and past interaction
 
  # GAMIFICATION Development
+
+
+ # Feedback 
+ The platform will incorporate a feedback loop from students, parents, and educators to continuously refine and enhance its features
 
 
 
