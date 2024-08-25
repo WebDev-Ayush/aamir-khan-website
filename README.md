@@ -15,8 +15,31 @@ suffering from OCD they need to have a website which they can arrange for themse
 # we have got variety of forms
 
 
-# Tech Stack 
-Bootstrap
-Html
-Css
+# Tech Stack for AI on Another platform
+Content filtering
+
+![5](https://github.com/user-attachments/assets/9f04b989-4afe-4ce7-9545-071dc2f524ee)
+
+
+
+
+Sentiment Analysis
+
+![5](https://github.com/user-attachments/assets/c1025da5-cda9-47ca-934c-17c447850fb0)
+
+
+NLP Identifies the emotion tone of the user's Input text
+# 4 main steps for sentiment analysys
+1 Data Gathering
+2 Analysing Data
+3 Text Clearing
+4 Understanding Result
+
+
+ # Mood Analysis
+ Personalised data according to user's behavior and past interaction
+
+ # GAMIFICATION Development
+
+
 
