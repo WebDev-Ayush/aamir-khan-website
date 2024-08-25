@@ -50,6 +50,17 @@ NLP Identifies the emotion tone of the user's Input text
  # GAMIFICATION Development
 
 
+
+ ![7](https://github.com/user-attachments/assets/24bb952a-1e2b-4a58-b7cc-1a60d7537971)
+
+
+
+
+ ![8](https://github.com/user-attachments/assets/26910c55-c830-497f-b8ef-5742fbe07c65)
+
+
+
+
  # Feedback 
  The platform will incorporate a feedback loop from students, parents, and educators to continuously refine and enhance its features
 
